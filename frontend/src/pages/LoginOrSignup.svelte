@@ -129,7 +129,7 @@
     }
 
     form {
-        width: calc(100% - 50px);
+        /*width: calc(100% - 50px);*/
         display: flex;
         flex-direction: column;
         align-items: center;
